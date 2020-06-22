@@ -19,7 +19,8 @@ public:
     }
     void output()
     {
-        cout << N << '.' << ' ' + name << '(' << x << ' ' << y << ',' << r << ')' << endl;
+        cout << N << '.' << ' ' + name << '(' << x << ' ' << y << ',' << r
+             << ')' << endl;
     }
     void setName(string a)
     {
