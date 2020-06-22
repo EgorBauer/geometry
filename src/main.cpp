@@ -1,7 +1,7 @@
 #include "Output.hpp"
 #include "Pars.hpp"
 int i = 0;
-const int k = 3;
+const int k = 2;
 int a;
 int b;
 int c;
