@@ -12,5 +12,3 @@ using namespace std;
 void outputF(figure* circle, int k);
 int sqr(int a);
 #endif
-
-
